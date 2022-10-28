@@ -1,0 +1,32 @@
+h1 {
+  color: #04aa6d;
+text-align: center;
+  font-display: bold;
+  font-family: serif
+  margin: 20px;
+}
+
+.box {
+  place-items: center;
+  background-color: #04aa6d ;
+  border-radius: 10px;
+margin: 100px 20px 50px 20px;
+  height:400px;
+}
+
+.page {
+  width: 200px;
+  margin: 5px;
+}
+
+.text {
+  width: 300px;
+  margin: 5px;
+  height: 30px;
+  text-align: center;
+}
+button {
+   width: 50px;
+  margin: 5px;
+  height: 30px;
+}

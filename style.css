@@ -1,0 +1,104 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.head {
+  text-align: center;
+  background-color: #04aa6d;
+  padding: 20px;
+  color: white;
+   
+}
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  background-color: #333;
+
+}
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: center
+  
+}
+a:hover:not(.contact) {
+  background-color: #111;
+}
+
+.contact {
+  background-color: #04aa6d;
+}
+.nam {
+  font: serif;
+  margin-bottom: 5px;
+}
+.home {
+  background-color: #04aa6d;
+  color: white;
+  padding: 20px;
+  margin-left:10px;
+  margin-right:10background-color: #04aa6d;
+  color: white;
+  padding: 20px;
+  margin-left:10px;
+  margin-right:10px:
+  align-item: center;
+}
+img {
+  margin-top: 10px;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.adme {
+  color:#04aa6d;
+}
+.me {
+ background-color: #04aa6d;
+  color: white;
+  padding: 20px;
+  margin-left:10px;
+  margin-right:10px:px:
+  text-align: center;
+}
+.hob {
+   color:#04aa6d;
+}
+.hobby {
+   background-color: #04aa6d;
+  color: white;
+  padding: 20px;
+  margin-left:10px;
+  margin-right:10px:
+  text-align: center;
+}
+.mysec {
+   color:#04aa6d;
+}
+.service {
+   background-color: #04aa6d;
+  color: whitbackground-color: #04aa6d;
+  color: white;
+  padding: 20px;
+  margin-left:10px;
+  margin-right:10px:
+  text-align: center;
+}
+.pro {
+  color:#04aa6d;
+}
+.one {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.foot {display: flex;
+  justify-content: center;
+  align-items: center;}gin-left: 10px;
+}
